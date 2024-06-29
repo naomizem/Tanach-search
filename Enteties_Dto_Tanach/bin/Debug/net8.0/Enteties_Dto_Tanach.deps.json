@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Enteties_Dto_Tanach/1.0.0": {
+        "runtime": {
+          "Enteties_Dto_Tanach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enteties_Dto_Tanach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

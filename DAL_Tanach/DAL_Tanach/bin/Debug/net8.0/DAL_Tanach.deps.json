@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DAL_Tanach/1.0.0": {
+        "dependencies": {
+          "Enteties_Dto_Tanach": "1.0.0"
+        },
+        "runtime": {
+          "DAL_Tanach.dll": {}
+        }
+      },
+      "Enteties_Dto_Tanach/1.0.0": {
+        "runtime": {
+          "Enteties_Dto_Tanach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DAL_Tanach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Enteties_Dto_Tanach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

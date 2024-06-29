@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Enteties_Dto_Tanach/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Enteties_Dto_Tanach.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Enteties_Dto_Tanach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enteties_Dto_Tanach/1.0.0": {
+      "type": "project",
+      "path": "../../Enteties_Dto_Tanach/Enteties_Dto_Tanach.csproj",
+      "msbuildProject": "../../Enteties_Dto_Tanach/Enteties_Dto_Tanach.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Enteties_Dto_Tanach >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\נעמי\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\נעמי\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט חיפוש בתנך\\DAL_Tanach\\DAL_Tanach\\DAL_Tanach.csproj",
+      "projectName": "DAL_Tanach",
+      "projectPath": "C:\\Users\\נעמי\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט חיפוש בתנך\\DAL_Tanach\\DAL_Tanach\\DAL_Tanach.csproj",
+      "packagesPath": "C:\\Users\\נעמי\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\נעמי\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט חיפוש בתנך\\DAL_Tanach\\DAL_Tanach\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\נעמי\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\נעמי\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט חיפוש בתנך\\Enteties_Dto_Tanach\\Enteties_Dto_Tanach.csproj": {
+              "projectPath": "C:\\Users\\נעמי\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט חיפוש בתנך\\Enteties_Dto_Tanach\\Enteties_Dto_Tanach.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

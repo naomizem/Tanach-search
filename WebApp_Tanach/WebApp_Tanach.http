@@ -1,0 +1,6 @@
+@WebApp_Tanach_HostAddress = http://localhost:5078
+
+GET {{WebApp_Tanach_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

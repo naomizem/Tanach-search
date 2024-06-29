@@ -1,0 +1,80 @@
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\appsettings.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.exe
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.deps.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.runtimeconfig.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.csproj.AssemblyReference.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.AssemblyInfoInputs.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.AssemblyInfo.cs
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.csproj.CoreCompileInputs.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets\msbuild.WebApp_Tanach.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp_Tanach.props
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp_Tanach.props
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp_Tanach.props
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\scopedcss\bundle\WebApp_Tanach.styles.css
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.csproj.CopyComplete
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\refint\WebApp_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.genruntimeconfig.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\ref\WebApp_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\DAL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Enteties_Dto_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\BLL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\DAL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Enteties_Dto_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Tanach.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\appsettings.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Tanach.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.exe
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.deps.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.runtimeconfig.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\WebApp_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\DAL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Enteties_Dto_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\BLL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\DAL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\bin\Debug\net8.0\Enteties_Dto_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.csproj.AssemblyReference.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.AssemblyInfoInputs.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.AssemblyInfo.cs
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.csproj.CoreCompileInputs.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets\msbuild.WebApp_Tanach.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApp_Tanach.props
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApp_Tanach.props
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApp_Tanach.props
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\scopedcss\bundle\WebApp_Tanach.styles.css
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.csproj.CopyComplete
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\refint\WebApp_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\WebApp_Tanach.genruntimeconfig.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\WebApp_Tanach\obj\Debug\net8.0\ref\WebApp_Tanach.dll

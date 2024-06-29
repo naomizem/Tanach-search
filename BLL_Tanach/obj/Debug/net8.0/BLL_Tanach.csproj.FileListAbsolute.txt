@@ -1,0 +1,34 @@
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\BLL_Tanach.deps.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\BLL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\DAL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\DAL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.csproj.AssemblyReference.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.AssemblyInfoInputs.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.AssemblyInfo.cs
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.csproj.CoreCompileInputs.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.csproj.CopyComplete
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\refint\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\ref\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\Enteties_Dto_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\Enteties_Dto_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\BLL_Tanach.deps.json
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\BLL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\DAL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\Enteties_Dto_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\DAL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\bin\Debug\net8.0\Enteties_Dto_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.csproj.AssemblyReference.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.AssemblyInfoInputs.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.AssemblyInfo.cs
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.csproj.CoreCompileInputs.cache
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.csproj.CopyComplete
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\refint\BLL_Tanach.dll
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\BLL_Tanach.pdb
+C:\Users\נעמי\Desktop\לימודים\שנה ב\C#\פרויקט חיפוש בתנך\פרויקט חיפוש בתנך\BLL_Tanach\obj\Debug\net8.0\ref\BLL_Tanach.dll

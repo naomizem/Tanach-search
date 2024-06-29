@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hj7ldfl+l3NC4lpfHXimmnP5/vuc8qb4wrPWee3m6IMweh2FefvZI7EQzdGJYqI8tzHRbhupnoI3dFdZfHnVAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\נעמי\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט חיפוש בתנך\\BLL_Tanach\\BLL_Tanach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\נעמי\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

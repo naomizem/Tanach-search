@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yD2mZUiK+kiamt6IjsYsNjqi0U86eYcU4AJqSpW/UcK6qeMbSdcu5Hpj4EV+HTgOAUEWl1Q68R43s+obmkBo1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\נעמי\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט חיפוש בתנך\\WebApp_Tanach\\WebApp_Tanach.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\נעמי\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\נעמי\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\נעמי\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\נעמי\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\נעמי\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\נעמי\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\נעמי\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
